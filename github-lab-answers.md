@@ -15,3 +15,7 @@ part 3
 2. git checkout nameOfNewBranch
 3. If there are multiple people working on the same piece of code, they may want to use different branches so they dont overwrite eachothers code
 
+part 4
+1. Used to combine changes on two seperate branches onto the main branch. Pull is for when one deeloper has made commits to a branch and they would like to reflect those changes in their local environment.
+
+2. git push
