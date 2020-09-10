@@ -5,10 +5,53 @@ h1 {
 }
 
 h3 {
-    color: rgb(94, 85, 221) ;
+    color: rgb(43, 30, 226) ;
     margin: 30px;
+    text-align: center;
 
 }
 li {
-    margin: 15px
+    margin: 15px;
+    text-align: center;
+    list-style-type: none;
+    
+    
+}
+#me {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 50px;
+   width: 30%; 
+   border-radius: 30%
+    
+}
+
+body {
+    background-color: rgb(130, 176, 207)
+}
+
+
+
+.link {
+    display: inline-block;
+    text-align: center;
+
+    
+    }
+
+nav {
+        background-color: honeydew;
+        margin-top: 60px;
+        text-align: center;
+        
+    }
+div {
+    display: inline-block;
+    width: 29%;
+    border: solid black;
+    text-align: center;
+    font-size: 50px;
+    height: 400px;
+    margin: 20px
 }
